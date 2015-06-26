@@ -1,5 +1,0 @@
-category: Perl
-requires: perl
-sdesc: "Perl TrueType font processing library"
-ldesc: "Perl module for TrueType font hacking. In short, you can do 
-almost anything with a standard TrueType font with this module."
