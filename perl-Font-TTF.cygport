@@ -8,3 +8,5 @@ CATEGORY="Perl"
 SUMMARY="Perl TrueType font processing library"
 DESCRIPTION="Perl module for TrueType font hacking. In short, you can do
 almost anything with a standard TrueType font with this module."
+
+ARCH=noarch
